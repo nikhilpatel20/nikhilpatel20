@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nikhil Patel 👋
 
-<!--
-**nikhilpatel20/nikhilpatel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) | Aspiring Data Scientist  
+📍 Bhopal, India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am passionate about Data Science and Machine Learning.  
+I specialize in building ETL pipelines, financial analytics systems, and deploying ML models on cloud platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- Python
+- SQL
+- Machine Learning
+- Pandas, NumPy, Scikit-learn
+- Power BI
+- MySQL, PostgreSQL
+- AWS (Basics)
+- Docker & Git
